@@ -1,0 +1,9 @@
+{
+    "type": "module",
+    "compilerOptions": {
+        "target": "es2017",
+        "module": "es2022",
+        "moduleResolution": "node",
+        // "allowSyntheticDefaultImports": true
+    }
+}

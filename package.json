@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@azure/msal-node": "^1.12.1",
+    "@microsoft/microsoft-graph-types": "^2.24.0",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "@types/node-fetch": "^2.6.1"
+  }
+}
